@@ -63,4 +63,4 @@ mySched.start()
 ```
 
 ## Additional comments
-All the examples on this section require to have g_os.py and g_fsm.py saved inside the device file system. You will find these two files in 00_Lib. 
+All the examples on this section require to have g_os.py and g_fsm.py saved inside the device file system. You will find these two files in the 00_G-OS and 00_G-FSM folders.
